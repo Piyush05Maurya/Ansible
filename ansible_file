@@ -1,4 +1,4 @@
-ssh -i C:\Users\shivansh\Downloads\pem.pem ec2-user@43.205.94.20
+ssh -i C:\Users\Dell\Downloads\pem.pem ec2-user@43.205.94.20
 
 sudo amazon-linux-extras enable ansible2
 sudo yum install ansible -y
